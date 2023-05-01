@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiwari-Niket
-- 👀 I’m interested in Full Stack Java Developer
-- 🌱 I’m currently learning Full Stack Java Development 
+- 👀 I’m interested in Full Stack Web Developer
+- 🌱 I’m currently learning Mern stack  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikettiwari9967@gmail.com
 
