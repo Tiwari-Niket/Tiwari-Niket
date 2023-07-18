@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Tiwari-Niket
+- 👋 Hi, I’m @Tiwari-Niket <img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 - 👀 I’m interested in Full Stack Web Developer
 - 🌱 I’m currently learning Mern stack and Nextjs
 - 📫 How to reach me nikettiwari9967@gmail.com
-- <p float="right">
-![Gaming-amico](https://github.com/Tiwari-Niket/Tiwari-Niket/assets/96378627/bfe53992-5c1f-48c6-ace0-ecddd2b06b63)
-</p>
 
 
 <!---
