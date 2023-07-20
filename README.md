@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Tiwari-Niket</h1>
-<img align="right" width="400" height="400" src="https://github.com/Tiwari-Niket/Tiwari-Niket/assets/96378627/10db2e1e-4472-4c7f-a41b-d36b60715a30"/>
+<img align="right" width="400" height="400" src="https://github.com/Tiwari-Niket/Tiwari-Niket/assets/96378627/ce968dc2-df7b-48ee-845c-a5a883f4b82b"/>
 
 <br>
 
